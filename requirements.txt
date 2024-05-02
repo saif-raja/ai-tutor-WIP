@@ -1,0 +1,22 @@
+# Python dependencies
+
+# Core libraries for API and asynchronous handling
+fastapi
+uvicorn
+python-multipart
+
+# LangChain for LLM integration
+langchain
+langchainhub
+
+# YouTube Data API client
+google-api-python-client
+
+# Database and ORM
+sqlalchemy
+aiosqlite  # For async support with SQLite
+aiosqlite
+aiofiles
+
+# Utilities
+python-dotenv  # For environment variable management
